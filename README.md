@@ -52,6 +52,6 @@ Special appreciation to the open-source community for their invaluable contribut
 
 ### Contact
 
-For inquiries or feedback, please reach out to [your_email@example.com](mailto:shankarreddy4@gmail.com).
+For inquiries or feedback, please reach out to [shankarreddy4@gmail.com](mailto:shankarreddy4@gmail.com).
 
 Thank you for choosing the PDF Parsing and Interviewing Assistant. We trust it will be a valuable asset in your endeavors. 
